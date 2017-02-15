@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		691438831E5369A500D3FFCA /* NiggaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691438821E5369A500D3FFCA /* NiggaViewController.swift */; };
 		694982821E50EE9700ADCB49 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694982811E50EE9700ADCB49 /* AppDelegate.swift */; };
 		694982841E50EE9700ADCB49 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694982831E50EE9700ADCB49 /* ViewController.swift */; };
 		694982871E50EE9700ADCB49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 694982851E50EE9700ADCB49 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		691438821E5369A500D3FFCA /* NiggaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NiggaViewController.swift; path = ../NiggaViewController.swift; sourceTree = "<group>"; };
 		6949827E1E50EE9700ADCB49 /* Emoji.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Emoji.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		694982811E50EE9700ADCB49 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		694982831E50EE9700ADCB49 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				694982811E50EE9700ADCB49 /* AppDelegate.swift */,
 				694982831E50EE9700ADCB49 /* ViewController.swift */,
+				691438821E5369A500D3FFCA /* NiggaViewController.swift */,
 				694982851E50EE9700ADCB49 /* Main.storyboard */,
 				694982881E50EE9700ADCB49 /* Assets.xcassets */,
 				6949828A1E50EE9700ADCB49 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				694982841E50EE9700ADCB49 /* ViewController.swift in Sources */,
 				694982821E50EE9700ADCB49 /* AppDelegate.swift in Sources */,
+				691438831E5369A500D3FFCA /* NiggaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +306,7 @@
 				694982921E50EE9700ADCB49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
